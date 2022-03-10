@@ -36,15 +36,12 @@ BookShelf is an Computer-Vision based Webapp, Which detects text from images of 
     
 #### Step 4: Using Selenium for Webscrapping
 
+* **Selenium** is used to get scrap the book details from the google books. </br>
+      To install **Selenium** `pip install selenium`
 
-* **Selenium** is used to scrap the book details from the web and parses the information into a dictionary.</br>
-      
-      Selenium requires **Chrome Driver**, download chrome driver which suits for the chrome browser version. (https://chromedriver.chromium.org/) </br>
-           
-      To install selenium `pip install selenium`
       
 * **Pandas** is used to convert the dictinary in a html file.
-
+      To install **Pandas** `pip install pandas`
 
 
 #### The Workflow of the webapp is showed in the pictures below.
