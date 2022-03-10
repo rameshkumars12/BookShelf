@@ -6,13 +6,13 @@ from Detect_Text import Book_Image
 from Book_Scrapper import book_scrapper
 
 config= {
-  "apiKey": "AIzaSyCi3krLXQr-I2YoEs3zNcRYqIYUbCzJGp4",
+  "apiKey": "",
   "authDomain": "book-shelf-by-rameshkumar.firebaseapp.com",
   "projectId": "book-shelf-by-rameshkumar",
   "storageBucket": "book-shelf-by-rameshkumar.appspot.com",
-  "messagingSenderId": "412414007474",
-  "appId": "1:412414007474:web:1cf38ccbceb3a77b4ed1ab",
-  "measurementId": "G-N589KE7J58",
+  "messagingSenderId": "",
+  "appId": "",
+  "measurementId": "",
     "databaseURL" : " "
 }
 
