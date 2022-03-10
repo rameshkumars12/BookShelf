@@ -30,8 +30,8 @@ BookShelf is an Computer-Vision based Webapp, Which detects text from images of 
     To install **Easyocr** `pip install easyocr`</br>
  
     The easyocr requires dependences like **pytorch** and **imutils** </br>
-    **Pytorch** can be configured from https://pytorch.org/</br>
-     To install **Imutils** `https://pytorch.org/`
+    **Pytorch** can be configured from `https://pytorch.org/`</br>
+     To install **Imutils** `pip install imutils`
     
     
 #### Step 4: Using Selenium for Webscrapping
@@ -40,7 +40,7 @@ BookShelf is an Computer-Vision based Webapp, Which detects text from images of 
       To install **Selenium** `pip install selenium`
 
       
-* **Pandas** is used to convert the dictinary in a html file.
+* **Pandas** is used to convert the dictinary in a html file.</br>
       To install **Pandas** `pip install pandas`
 
 
