@@ -6,7 +6,7 @@ BookShelf is an Computer-Vision based Webapp, Which detects text from images of 
 
 #### Step 1: Web Application
 
-* **Bootstrap** and **html** are used for front-end process.
+* **Bootstrap** and **Html** are used for front-end process.
 
 * **Flask** is used for back-end process.</br>
       To install **Flask** `pip install flask`
