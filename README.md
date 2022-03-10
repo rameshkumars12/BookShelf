@@ -6,9 +6,9 @@ BookShelf is an Computer-Vision based Webapp, Which detects text from images of 
 
 #### Step 1: Web Application
 
-* `Bootstrap` and `html` are used for front-end process.
+* **Bootstrap** and **html** are used for front-end process.
 
-* `Flask` is used for back-end process.</br>
+* **Flask** is used for back-end process.</br>
       To install **Flask** `pip install flask`
 
 
@@ -37,11 +37,17 @@ BookShelf is an Computer-Vision based Webapp, Which detects text from images of 
 #### Step 4: Using Selenium for Webscrapping
 
 
-* 
+* **Selenium** is used to scrap the book details from the web and parses the information into a dictionary.</br>
+      
+      Selenium requires **Chrome Driver**, download chrome driver which suits for the chrome browser version. (https://chromedriver.chromium.org/) </br>
+           
+      To install selenium `pip install selenium`
+      
+* **Pandas** is used to convert the dictinary in a html file.
 
 
 
-
+#### The Workflow of the webapp is showed in the pictures below.
 
 
 ![1 Collage](https://user-images.githubusercontent.com/84787925/157671863-fd4f4b73-e07e-46c7-adf0-1d038ec0cf2d.PNG)
